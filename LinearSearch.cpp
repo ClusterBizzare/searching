@@ -1,5 +1,4 @@
 #include<iostream>
-#include<chrono>
 using namespace std;
 template<typename t>
 int LinearSearch(t arr[],int size,t key){
